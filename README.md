@@ -61,6 +61,12 @@ plaintext
 └── vite.config.js     :- Vite configuration
 
 
-![Watch Preview 1](preview/preview1.mp4)
+4. Preview
+   
+<video src="preview/preview1.mp4" width="600" controls autoplay loop muted>
+    Your browser does not support the video tag.
+</video>
 
-[Watch Preview 2](preview/preview2.mp4)
+<video src="preview/preview2.mp4" width="600" controls autoplay loop muted>
+    Your browser does not support the video tag.
+</video>
