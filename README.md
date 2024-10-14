@@ -61,3 +61,6 @@ plaintext
 └── vite.config.js     :- Vite configuration
 
 
+![Watch Preview 1](preview/preview1.mp4)
+
+![Watch Preview 2](preview/preview2.mp4)
