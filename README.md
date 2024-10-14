@@ -47,16 +47,27 @@ The website will be available at http://localhost:5173.
 Folder Structure
 
 plaintext
+
 ├── public            # Static assets
+
 ├── src
+
 │   ├── assets        # Images, icons, and other media
+
 │   ├── components    # Reusable React component
+
 │   ├── App.jsx       # Main app component
+
 │   ├── index.html    # Main HTML file
+
 │   └── main.jsx      # Entry point for React
+
 ├── tailwind.config.js # TailwindCSS configuration
+
 ├── package.json      # Project metadata and dependencies
+
 ├── README.md         # Project documentation
+
 └── vite.config.js    # Vite configuration
 
 
